@@ -1,0 +1,12 @@
+Enter normal usage of Water in House :6.5L
+Enter normal usage of Water in Industry :98.1L
+Enter normal usage of Water in Hospital :85.6547L
+Enter Overflow of Water in House :9875.5L
+Enter Overflow of Water in Hospital :98552.2L
+Enter Overflow of Water in Industry :4125.3L
+Tank Limit is 450L
+Power required for filling :2250 Watt
+Time taken for filling :60
+Budget required (Rs):50000
+Tank is overflowing
+Need another tank 
